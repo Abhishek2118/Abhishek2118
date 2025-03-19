@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Kumar Nishad
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently pursuing BTech-CSE
 - <!---💞️ I’m looking to collaborate on ...>
 - <!---📫 How to reach me ...>
